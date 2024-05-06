@@ -3,7 +3,7 @@
 		default_root_id: 'root',
 		client_id: '202264815644.apps.googleusercontent.com',
 		client_secret: 'X4Z3ca8xfWDb1Voo-F9a7ZxJ',
-		refresh_token: '1//0fcSNkGpdR3MdCgYIARAAGA8SNwF-L9IryPOadp852KnW7F1MochzAy6snmeueARXUnKgwgkWTcGYKK_XARXY3EKX0GdWqKWcdAs',
+		refresh_token: '',
 		service_account: false,
 		service_account_json: {},
 		auth: false,
